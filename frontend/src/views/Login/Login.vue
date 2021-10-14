@@ -13,8 +13,8 @@
               <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Email">
             </div>
             <div class="form-group mt-2">
-              <label for="exampleInputPassword1">Senha</label>
-              <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Senha">
+              <label for="exampleInputPassword1">Password</label>
+              <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Password">
             </div>
             <button type="submit" class="btn btn-light mt-3" @click.prevent="login">Entrar</button>
           </form>
