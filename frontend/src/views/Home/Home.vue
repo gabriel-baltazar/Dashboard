@@ -1,5 +1,7 @@
 <template>
-    <Dashboard />
+    <Dashboard>
+    
+    </Dashboard>
 </template>
 
 <script>

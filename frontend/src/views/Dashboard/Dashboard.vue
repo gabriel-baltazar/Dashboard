@@ -8,7 +8,6 @@
              <NavbarComponent />
            </div>
            <div class="content-pages">
-
            </div>
 
        </div>

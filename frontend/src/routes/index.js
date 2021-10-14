@@ -13,6 +13,21 @@ const routes = [
     name:'home', 
     component: Home
   },
+  { 
+    path: '/products',
+    name:'products', 
+    component: Home
+  },
+  { 
+    path: '/sales',
+    name:'sales', 
+    component: Home
+  },
+  { 
+    path: '/reports',
+    name:'reports', 
+    component: Home
+  }
   
 ]
   
